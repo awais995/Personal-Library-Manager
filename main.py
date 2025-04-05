@@ -239,4 +239,4 @@ elif choice == "Display Statistics":
 
 st.markdown("------------")
 
-st.markdown("Made with ❤️ by [Muhammad Awais](https://github.com/awais995)")
+st.markdown("Build ❤️ by [Muhammad Awais](https://github.com/awais995)")
